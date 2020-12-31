@@ -1,10 +1,6 @@
 # Analysis_of_Popular_movies_and_Various_TV_shows
 Trends and a sentiment analysis of Popular movies and Various TV shows
 
-# TV_show_analysis
-
-# Data-Analysis
-
 # Table Content
 - Introduction
 - Technology Stack
